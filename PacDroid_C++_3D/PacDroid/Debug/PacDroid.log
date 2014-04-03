@@ -1,0 +1,89 @@
+﻿La génération a démarré 28/11/2011 11:11:15.
+Projet "C:\Dropbox\Projet C++\PacDroid\PacDroid\PacDroid.vcxproj" sur le nœud 2 (build cible(s)).
+InitializeBuildStatus:
+  Création de "Debug\PacDroid.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Aleatoire.cpp Button.cpp Camera.cpp Case.cpp ControllerButton.cpp ControllerJeu.cpp Coordonee.cpp Couleur.cpp DisplayListPool.cpp Entite.cpp EntiteMobile.cpp FantomeModel.cpp FantomeView.cpp Main.cpp Map.cpp MapView.cpp Model.cpp MurGaucheView.cpp MurHautView.cpp MurView.cpp PacmanModel.cpp PacmanView.cpp PastilleModel.cpp PastilleView.cpp Surface.cpp TextView.cpp Utils.cpp View.cpp ViewInfos.cpp ViewJeu.cpp ViewJeu2D.cpp ViewJeu3D.cpp ViewJeu3DParalleles.cpp ViewJeu3DPerspective.cpp
+  ViewJeu3DPerspective.cpp
+  ViewJeu3DParalleles.cpp
+  ViewJeu3D.cpp
+  ViewJeu2D.cpp
+  ViewJeu.cpp
+  ViewInfos.cpp
+  View.cpp
+  Utils.cpp
+  TextView.cpp
+  Surface.cpp
+  PastilleView.cpp
+  PastilleModel.cpp
+  PacmanView.cpp
+  PacmanModel.cpp
+  MurView.cpp
+  MurHautView.cpp
+  MurGaucheView.cpp
+  Model.cpp
+  MapView.cpp
+  Map.cpp
+  Génération de code en cours...
+  Compilation en cours...
+  Main.cpp
+  FantomeView.cpp
+  FantomeModel.cpp
+  EntiteMobile.cpp
+  Entite.cpp
+  DisplayListPool.cpp
+  Couleur.cpp
+  Coordonee.cpp
+  ControllerJeu.cpp
+  ControllerButton.cpp
+  Case.cpp
+  Camera.cpp
+  Button.cpp
+  Aleatoire.cpp
+  Génération de code en cours...
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Dropbox\Projet C++\PacDroid\Debug\PacDroid.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PacDroid.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Dropbox\Projet C++\PacDroid\Debug\PacDroid.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Dropbox\Projet C++\PacDroid\Debug\PacDroid.lib" /MACHINE:X86 Debug\Aleatoire.obj
+  Debug\Button.obj
+  Debug\Camera.obj
+  Debug\Case.obj
+  Debug\ControllerButton.obj
+  Debug\ControllerJeu.obj
+  Debug\Coordonee.obj
+  Debug\Couleur.obj
+  Debug\DisplayListPool.obj
+  Debug\Entite.obj
+  Debug\EntiteMobile.obj
+  Debug\FantomeModel.obj
+  Debug\FantomeView.obj
+  Debug\Main.obj
+  Debug\Map.obj
+  Debug\MapView.obj
+  Debug\Model.obj
+  Debug\MurGaucheView.obj
+  Debug\MurHautView.obj
+  Debug\MurView.obj
+  Debug\PacmanModel.obj
+  Debug\PacmanView.obj
+  Debug\PastilleModel.obj
+  Debug\PastilleView.obj
+  Debug\Surface.obj
+  Debug\TextView.obj
+  Debug\Utils.obj
+  Debug\View.obj
+  Debug\ViewInfos.obj
+  Debug\ViewJeu.obj
+  Debug\ViewJeu2D.obj
+  Debug\ViewJeu3D.obj
+  Debug\ViewJeu3DParalleles.obj
+  Debug\ViewJeu3DPerspective.obj
+  PacDroid.vcxproj -> C:\Dropbox\Projet C++\PacDroid\Debug\PacDroid.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Dropbox\Projet C++\PacDroid\Debug\PacDroid.exe;#1" /manifest Debug\PacDroid.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Suppression du fichier "Debug\PacDroid.unsuccessfulbuild".
+  Mise à jour de l'horodatage "Debug\PacDroid.lastbuildstate".
+Génération du projet "C:\Dropbox\Projet C++\PacDroid\PacDroid\PacDroid.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:17.90
